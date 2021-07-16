@@ -26,4 +26,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: curl --socks5 192.111.139.165:4145 http://www.google.com/
+    - run: curl --socks5 Z4FLqN8N8Rfl:llxC8N2GkEo@173.195.15.88:1080 http://www.google.com/
